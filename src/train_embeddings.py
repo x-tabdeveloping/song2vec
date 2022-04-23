@@ -13,4 +13,5 @@ def main() -> None:
     model.save(SAVE_PATH)
 
 
-main()
+if __name__ == "__main__":
+    main()
