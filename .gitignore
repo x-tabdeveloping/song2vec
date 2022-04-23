@@ -1,0 +1,5 @@
+environment/
+dat/
+.vscode/
+*.ipynb
+*.zip
